@@ -1,8 +1,42 @@
----
-layout: default
----
+# Experience
+### PhD, University of Zaragoza 
+##### 2017 Sep - Present
+*    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Topic: Real-time monocular visual(-inertial) odometry and SLAM
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Computer Vision Intern, Wikitude
+##### 2016 Feb - Jul
+*    R&D on the state-of-the-art 3D visual SLAM methods for AR applications on mobile devices.
+
+# Education
+
+### MSc Aerospace Engineering, TU Delft
+##### 2014-2017
+*    Program: Control and Simulation
+*    Thesis Advisor: [Dr. Guido de Croon](http://www.bene-guido.eu/wordpress/)
+*    Thesis: _Stability-based Scale Estimation of Monocular SLAM for Autonomous Quadrotor Navigation_
+
+### BSc Aerospace Engineering, TU Delft
+##### 2011-2014
+*    Cum Laude (GPA 8.68/10).
+*    Thesis: _BirdPlane – Designing a bio-inspired flapping-wing aircraft_
+
+# Publications
+#### [Loosely-Coupled Semi-Direct Monocular SLAM](https://arxiv.org/abs/1807.10073)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    arXiv preprint, July 2018.
+*    [Video demo](https://youtu.be/j7WnU7ZpZ8c), [Source code](https://github.com/sunghoon031/LCSD_SLAM)
+
+#### [Stability-based Scale Estimation for Monocular SLAM](https://ieeexplore.ieee.org/document/8246525/)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Guido de Croon](http://www.bene-guido.eu/wordpress/)
+*    IEEE Robotics and Automation Letters, April 2018. 
+*    [Video demo](https://www.youtube.com/playlist?list=PL_KSX9GOn2P8WK44QH_pIZuRbLFrMFiAP), [Source code](https://github.com/sunghoon031/stability_scale)
+
+
+
+<!---
+
+# "Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -121,4 +155,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
+-->
