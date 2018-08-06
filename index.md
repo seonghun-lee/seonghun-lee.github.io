@@ -1,4 +1,6 @@
-----
+---
+layout: default
+---
 
 # Experience
 ### PhD, University of Zaragoza 
