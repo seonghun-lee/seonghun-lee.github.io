@@ -17,13 +17,13 @@ layout: default
 
 ### MSc Aerospace Engineering, TU Delft
 ##### 2014-2017
-*    Program: Control and Simulation
+*    Program: Control and Simulation (GPA 8.2/10)
 *    Thesis Advisor: [Dr. Guido de Croon](http://www.bene-guido.eu/wordpress/)
 *    Thesis: _Stability-based Scale Estimation of Monocular SLAM for Autonomous Quadrotor Navigation_
 
 ### BSc Aerospace Engineering, TU Delft
 ##### 2011-2014
-*    Cum Laude (GPA 8.68/10).
+*    Cum Laude (GPA 8.7/10)
 *    Thesis: _BirdPlane – Designing a bio-inspired flapping-wing aircraft_
 
 # Publications
