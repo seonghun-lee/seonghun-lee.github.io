@@ -11,7 +11,7 @@ layout: default
 
 ### Computer Vision Intern, Wikitude
 ##### 2016 Feb - Jul
-*    R&D on the state-of-the-art 3D visual SLAM methods for AR applications on mobile devices.
+*    Investigate the state-of-the-art 3D visual SLAM methods for AR applications on mobile devices.
 
 # Education
 
