@@ -29,7 +29,7 @@ layout: default
 # Publications
 #### [Loosely-Coupled Semi-Direct Monocular SLAM](https://arxiv.org/abs/1807.10073)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    arXiv preprint, July 2018.
+*    IEEE Robotics and Automation Letters, March 2019
 *    [Video demo](https://youtu.be/j7WnU7ZpZ8c), [Source code](https://github.com/sunghoon031/LCSD_SLAM)
 
 #### [Stability-based Scale Estimation for Monocular SLAM](https://ieeexplore.ieee.org/document/8246525/)
