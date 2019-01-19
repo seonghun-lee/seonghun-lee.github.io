@@ -24,13 +24,14 @@ layout: default
 ### BSc Aerospace Engineering, TU Delft
 ##### 2011-2014
 *    Cum Laude (GPA 8.7/10)
-*    Thesis: _BirdPlane – Designing a bio-inspired flapping-wing aircraft_
+*    Graduation project: _BirdPlane – Designing a bio-inspired flapping-wing aircraft_ 
+*    This project won _UfD-Damen Bachelor Award 2015_ with €2,500 grant.
 
 # Publications
-#### [Loosely-Coupled Semi-Direct Monocular SLAM](https://arxiv.org/abs/1807.10073)
+#### [Loosely-Coupled Semi-Direct Monocular SLAM](https://ieeexplore.ieee.org/document/8584894)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    IEEE Robotics and Automation Letters, March 2019
-*    [Video demo](https://youtu.be/j7WnU7ZpZ8c), [Source code](https://github.com/sunghoon031/LCSD_SLAM)
+*    IEEE Robotics and Automation Letters, April 2019
+*    [arXiv](https://arxiv.org/abs/1807.10073), [Video demo](https://youtu.be/j7WnU7ZpZ8c), [Source code](https://github.com/sunghoon031/LCSD_SLAM)
 
 #### [Stability-based Scale Estimation for Monocular SLAM](https://ieeexplore.ieee.org/document/8246525/)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Guido de Croon](http://www.bene-guido.eu/wordpress/)
