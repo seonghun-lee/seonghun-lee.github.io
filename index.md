@@ -28,8 +28,14 @@ layout: default
 *    This project won _UfD-Damen Bachelor Award 2015_ with €2,500 grant.
 
 # Publications
-#### [Closed-Form Optimal Triangulation Based on Angular Errors](https://arxiv.org/abs/1903.09115)
+#### [Triangulation: Why Optimize?](https://arxiv.org/abs/1907.11917)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    British Machine Vision Conference, 2019
+*    [arXiv](https://arxiv.org/abs/1907.11917)
+
+#### [Closed-Form Optimal Two-View Triangulation Based on Angular Errors](https://arxiv.org/abs/1903.09115)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    IEEE International Conference on Computer Vision, 2019
 *    [arXiv](https://arxiv.org/abs/1903.09115)
 
 #### [Loosely-Coupled Semi-Direct Monocular SLAM](https://ieeexplore.ieee.org/document/8584894)
