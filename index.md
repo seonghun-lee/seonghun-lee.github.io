@@ -11,7 +11,7 @@ layout: default
 
 ### Computer Vision Intern, Wikitude
 ##### 2016 Feb - Jul
-*    R&D on the state-of-the-art 3D visual SLAM methods for AR applications on mobile devices.
+*    Investigate the state-of-the-art 3D visual SLAM methods for AR applications on mobile devices.
 
 # Education
 
@@ -24,13 +24,24 @@ layout: default
 ### BSc Aerospace Engineering, TU Delft
 ##### 2011-2014
 *    Cum Laude (GPA 8.7/10)
-*    Thesis: _BirdPlane – Designing a bio-inspired flapping-wing aircraft_
+*    Graduation project: _BirdPlane – Designing a bio-inspired flapping-wing aircraft_ 
+*    This project won _UfD-Damen Bachelor Award 2015_ with €2,500 grant.
 
 # Publications
-#### [Loosely-Coupled Semi-Direct Monocular SLAM](https://arxiv.org/abs/1807.10073)
+#### [Triangulation: Why Optimize?](https://arxiv.org/abs/1907.11917)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    arXiv preprint, July 2018.
-*    [Video demo](https://youtu.be/j7WnU7ZpZ8c), [Source code](https://github.com/sunghoon031/LCSD_SLAM)
+*    British Machine Vision Conference, 2019
+*    [arXiv](https://arxiv.org/abs/1907.11917)
+
+#### [Closed-Form Optimal Two-View Triangulation Based on Angular Errors](https://arxiv.org/abs/1903.09115)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    IEEE International Conference on Computer Vision, 2019
+*    [arXiv](https://arxiv.org/abs/1903.09115)
+
+#### [Loosely-Coupled Semi-Direct Monocular SLAM](https://ieeexplore.ieee.org/document/8584894)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    IEEE Robotics and Automation Letters, April 2019
+*    [arXiv](https://arxiv.org/abs/1807.10073), [Video demo](https://youtu.be/j7WnU7ZpZ8c), [Source code](https://github.com/sunghoon031/LCSD_SLAM)
 
 #### [Stability-based Scale Estimation for Monocular SLAM](https://ieeexplore.ieee.org/document/8246525/)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Guido de Croon](http://www.bene-guido.eu/wordpress/)
