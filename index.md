@@ -31,7 +31,7 @@ layout: default
 #### [Triangulation: Why Optimize?](https://arxiv.org/abs/1907.11917)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    British Machine Vision Conference, 2019
-*    [arXiv](https://arxiv.org/abs/1907.11917), [pdf](pdf/TriangulationWhyOptimize.pdf)
+*    [arXiv](https://arxiv.org/abs/1907.11917), [pdf](pdf/TriangulationWhyOptimize.pdf), [ppt](pdf/TriangulationWhyOptimizePresentation.pdf)
 
 #### [Closed-Form Optimal Two-View Triangulation Based on Angular Errors](https://arxiv.org/abs/1903.09115)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
