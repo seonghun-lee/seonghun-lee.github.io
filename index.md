@@ -31,7 +31,7 @@ layout: default
 #### [Triangulation: Why Optimize?](https://bmvc2019.org/wp-content/uploads/papers/0331-paper.pdf)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    British Machine Vision Conference, 2019
-*    [arXiv](https://arxiv.org/abs/1907.11917), [pdf](pdf/TriangulationWhyOptimize.pdf), [presentation slides](pdf/TriangulationWhyOptimizePresentation.pdf)
+*    [arXiv](https://arxiv.org/abs/1907.11917), [pdf](pdf/TriangulationWhyOptimize.pdf), [Poster](pdf/bmvc2019_poster.pdf),[Presentation slides](pdf/TriangulationWhyOptimizePresentation.pdf)
 
 #### [Closed-Form Optimal Two-View Triangulation Based on Angular Errors](https://arxiv.org/abs/1903.09115)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
@@ -41,12 +41,12 @@ layout: default
 #### [Loosely-Coupled Semi-Direct Monocular SLAM](https://ieeexplore.ieee.org/document/8584894)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    IEEE Robotics and Automation Letters, April 2019
-*    [arXiv](https://arxiv.org/abs/1807.10073), [Video demo](https://youtu.be/j7WnU7ZpZ8c), [Source code](https://github.com/sunghoon031/LCSD_SLAM)
+*    [arXiv](https://arxiv.org/abs/1807.10073), [Poster](pdf/icra2019_poster.pdf), [Video demo](https://youtu.be/j7WnU7ZpZ8c), [Source code](https://github.com/sunghoon031/LCSD_SLAM)
 
 #### [Stability-based Scale Estimation for Monocular SLAM](https://ieeexplore.ieee.org/document/8246525/)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Guido de Croon](http://www.bene-guido.eu/wordpress/)
 *    IEEE Robotics and Automation Letters, April 2018. 
-*    [Video demo](https://www.youtube.com/playlist?list=PL_KSX9GOn2P8WK44QH_pIZuRbLFrMFiAP), [Source code](https://github.com/sunghoon031/stability_scale)
+*    [Poster](pdf/icra2018_poster.pdf), [Video demo](https://www.youtube.com/playlist?list=PL_KSX9GOn2P8WK44QH_pIZuRbLFrMFiAP), [Source code](https://github.com/sunghoon031/stability_scale)
 
 
 <!--
