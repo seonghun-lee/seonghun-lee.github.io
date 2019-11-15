@@ -28,12 +28,17 @@ layout: default
 *    This project won _UfD-Damen Bachelor Award 2015_ with €2,500 grant.
 
 # Publications
+#### [RGB-D Odometry and SLAM](https://link.springer.com/chapter/10.1007/978-3-030-28603-3_6)
+*    [Javier Civera](http://webdiis.unizar.es/~jcivera/) and [Seong Hun Lee](https://seonghun-lee.github.io/)
+*    RGB-D Image Analysis and Processing, 2019
+
+
 #### [Triangulation: Why Optimize?](https://bmvc2019.org/wp-content/uploads/papers/0331-paper.pdf)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    British Machine Vision Conference, 2019
 *    [arXiv](https://arxiv.org/abs/1907.11917), [pdf](pdf/TriangulationWhyOptimize.pdf), [Poster](pdf/bmvc2019_poster.pdf), [Presentation slides](pdf/TriangulationWhyOptimizePresentation.pdf)
 
-#### [Closed-Form Optimal Two-View Triangulation Based on Angular Errors](https://arxiv.org/abs/1903.09115)
+#### [Closed-Form Optimal Two-View Triangulation Based on Angular Errors](http://openaccess.thecvf.com/content_ICCV_2019/html/Lee_Closed-Form_Optimal_Two-View_Triangulation_Based_on_Angular_Errors_ICCV_2019_paper.html)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    IEEE International Conference on Computer Vision, 2019
 *    [arXiv](https://arxiv.org/abs/1903.09115)
