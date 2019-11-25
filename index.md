@@ -41,7 +41,7 @@ layout: default
 #### [Closed-Form Optimal Two-View Triangulation Based on Angular Errors](http://openaccess.thecvf.com/content_ICCV_2019/html/Lee_Closed-Form_Optimal_Two-View_Triangulation_Based_on_Angular_Errors_ICCV_2019_paper.html)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    IEEE International Conference on Computer Vision, 2019
-*    [arXiv](https://arxiv.org/abs/1903.09115)
+*    [arXiv](https://arxiv.org/abs/1903.09115), [Poster](pdf/iccv2019_poster.pdf)
 
 #### [Loosely-Coupled Semi-Direct Monocular SLAM](https://ieeexplore.ieee.org/document/8584894)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
