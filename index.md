@@ -36,6 +36,7 @@ layout: default
 #### [RGB-D Odometry and SLAM](https://link.springer.com/chapter/10.1007/978-3-030-28603-3_6)
 *    [Javier Civera](http://webdiis.unizar.es/~jcivera/) and [Seong Hun Lee](https://seonghun-lee.github.io/)
 *    RGB-D Image Analysis and Processing, 2019
+*    [arXiv](https://arxiv.org/abs/2001.06875)
 
 
 #### [Triangulation: Why Optimize?](https://bmvc2019.org/wp-content/uploads/papers/0331-paper.pdf)
