@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 
 # Experience
@@ -28,6 +26,17 @@ layout: default
 *    This project won _UfD-Damen Bachelor Award 2015_ with €2,500 grant.
 
 # Publications
+
+#### [Geometric Interpretations of the Normalized Epipolar Error](https://arxiv.org/abs/2008.01254)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Preprint, 2020
+*    [arXiv](https://arxiv.org/abs/2008.01254)
+
+#### [Robust Uncertainty-Aware Multiview Triangulation](https://arxiv.org/abs/2008.01258)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Preprint, 2020
+*    [arXiv](https://arxiv.org/abs/2008.01258), [Supplementary material](pdf/SupplementaryMaterial_RobustUncertaintyAwareMultiviewTriangulation.pdf)
+
 #### [Robust Single Rotation Averaging](http://arxiv.org/abs/2004.00732)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Preprint, 2020
@@ -65,6 +74,9 @@ layout: default
 
 <!--
 
+---
+layout: default
+---
 
 # "Text can be **bold**, _italic_, or ~~strikethrough~~.
 
