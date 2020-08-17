@@ -40,7 +40,7 @@
 #### [Robust Single Rotation Averaging](http://arxiv.org/abs/2004.00732)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Preprint, 2020
-*    [arXiv](http://arxiv.org/abs/2004.00732)
+*    [arXiv](http://arxiv.org/abs/2004.00732), [Matlab code](https://github.com/sunghoon031/RobustSingleRotationAveraging)
 
 #### [RGB-D Odometry and SLAM](https://link.springer.com/chapter/10.1007/978-3-030-28603-3_6)
 *    [Javier Civera](http://webdiis.unizar.es/~jcivera/) and [Seong Hun Lee](https://seonghun-lee.github.io/)
