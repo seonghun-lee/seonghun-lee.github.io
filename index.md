@@ -30,7 +30,7 @@
 #### [Rotation-Only Bundle Adjustment](https://arxiv.org/abs/2011.11724)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Preprint, 2020
-*    [arXiv](https://arxiv.org/abs/2011.11724), [Supplementary material](pdf/_arXiv_Supp__Rotation_Only_Bundle_Adjustment.pdf), Code (To appear soon)
+*    [arXiv](https://arxiv.org/abs/2011.11724), [Supplementary material](pdf/SupplementaryMaterial_RotationOnlyBundleAdjustment.pdf), Code (To appear soon)
 
 #### [Geometric Interpretations of the Normalized Epipolar Error](https://arxiv.org/abs/2008.01254)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
