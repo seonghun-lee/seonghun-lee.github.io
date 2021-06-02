@@ -16,7 +16,7 @@
 ### MSc Aerospace Engineering, TU Delft
 ##### 2014-2017
 *    Program: Control and Simulation (GPA 8.2/10)
-*    Thesis Advisor: [Dr. Guido de Croon](http://www.bene-guido.eu/wordpress/)
+*    Thesis Advisor: [Prof. Guido de Croon](http://www.bene-guido.eu/wordpress/)
 *    Thesis: _Stability-based Scale Estimation of Monocular SLAM for Autonomous Quadrotor Navigation_
 
 ### BSc Aerospace Engineering, TU Delft
@@ -30,7 +30,7 @@
 #### [Rotation-Only Bundle Adjustment](https://arxiv.org/abs/2011.11724)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Preprint, 2020
-*    [arXiv](https://arxiv.org/abs/2011.11724), [Supplementary material](pdf/SupplementaryMaterial_RotationOnlyBundleAdjustment.pdf), [Code](https://github.com/sunghoon031/ROBA), [Video](https://www.youtube.com/watch?v=JXnEwXwVKus)
+*    [arXiv](https://arxiv.org/abs/2011.11724), [Video](https://www.youtube.com/watch?v=JXnEwXwVKus), [Poster](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/cvpr2021_poster.pdf), [Presentation](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/cvpr2021_presentation.pdf), [Supplementary material](pdf/SupplementaryMaterial_RotationOnlyBundleAdjustment.pdf), [Matlab code](https://github.com/sunghoon031/ROBA)
 
 #### [Geometric Interpretations of the Normalized Epipolar Error](https://arxiv.org/abs/2008.01254)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
