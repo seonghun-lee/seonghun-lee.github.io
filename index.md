@@ -27,6 +27,11 @@
 
 # Publications
 
+#### [HARA: A Hierarchical Approach for Robust Rotation Averaging](https://arxiv.org/abs/2111.08831)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Preprint, 2021
+*    [arXiv](https://arxiv.org/abs/2111.08831)
+
 #### [Rotation-Only Bundle Adjustment](https://arxiv.org/abs/2011.11724)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Preprint, 2020
@@ -75,7 +80,7 @@
 
 
 # Code
-#####  [Random Pair Sampling Without Replacement (MATLAB function)](https://nl.mathworks.com/matlabcentral/fileexchange/75407-random-pair-sampling-without-replacement) 
+#####  [Pseudorandom Pair Sampling Without Replacement (MATLAB function)](https://nl.mathworks.com/matlabcentral/fileexchange/75407-pseudorandom-pair-sampling-without-replacement) 
 
 <!--
 
