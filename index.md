@@ -32,9 +32,9 @@
 *    Preprint, 2021
 *    [arXiv](https://arxiv.org/abs/2111.08831)
 
-#### [Rotation-Only Bundle Adjustment](https://arxiv.org/abs/2011.11724)
+#### [Rotation-Only Bundle Adjustment](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_Rotation-Only_Bundle_Adjustment_CVPR_2021_paper.html)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    Preprint, 2020
+*    IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 *    [arXiv](https://arxiv.org/abs/2011.11724), [Video](https://www.youtube.com/watch?v=JXnEwXwVKus), [Poster](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/cvpr2021_poster.pdf), [Presentation](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/cvpr2021_presentation.pdf), [Supplementary material](pdf/SupplementaryMaterial_RotationOnlyBundleAdjustment.pdf), [Matlab code](https://github.com/sunghoon031/ROBA)
 
 #### [Geometric Interpretations of the Normalized Epipolar Error](https://arxiv.org/abs/2008.01254)
