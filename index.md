@@ -30,7 +30,7 @@
 #### [HARA: A Hierarchical Approach for Robust Rotation Averaging](https://arxiv.org/abs/2111.08831)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Preprint, 2021
-*    [arXiv](https://arxiv.org/abs/2111.08831)
+*    [arXiv](https://arxiv.org/abs/2111.08831), [Supplementary material](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/SupplementaryMaterial_HARA_A_Hierarchical_Approach_for_Robust_Rotation_Averaging.pdf).
 
 #### [Rotation-Only Bundle Adjustment](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_Rotation-Only_Bundle_Adjustment_CVPR_2021_paper.html)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
