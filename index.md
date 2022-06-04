@@ -27,6 +27,11 @@
 
 # Publications
 
+#### RODIAN: Robustified Median
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    [Matlab code](https://github.com/sunghoon031/RODIAN).
+
+
 #### [HARA: A Hierarchical Approach for Robust Rotation Averaging](https://arxiv.org/abs/2111.08831)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
