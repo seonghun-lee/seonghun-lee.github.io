@@ -27,9 +27,10 @@
 
 # Publications
 
-#### RODIAN: Robustified Median
+#### [RODIAN: Robustified Median](https://arxiv.org/abs/2206.02570)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    [Matlab code](https://github.com/sunghoon031/RODIAN).
+*    Preprint, 2022
+*    [arXiv](https://arxiv.org/abs/2206.02570), [Matlab code](https://github.com/sunghoon031/RODIAN).
 
 
 #### [HARA: A Hierarchical Approach for Robust Rotation Averaging](https://arxiv.org/abs/2111.08831)
