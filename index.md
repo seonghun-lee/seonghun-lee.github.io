@@ -2,10 +2,14 @@
 
 
 # Experience
-### PhD, University of Zaragoza 
-##### 2017 Sep - Present
+### Postdoctoral researcher, University of Zaragoza
+##### 2022 Feb - Present
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    Topic: Real-time monocular visual(-inertial) odometry and SLAM
+
+### PhD Student, University of Zaragoza 
+##### 2017 Sep - 2022 Feb
+*    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Topic: Visual SLAM and multiple view geometry
 
 ### Computer Vision Intern, Wikitude
 ##### 2016 Feb - Jul
