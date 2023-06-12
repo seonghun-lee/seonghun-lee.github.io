@@ -11,7 +11,7 @@
 ##### 2017 Sep - 2023 Feb
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Research Topic: Visual SLAM and multiple view geometry
-*    Thesis: Why do we optimize what we optimize in multiple view geometry?
+*    Thesis: _Why do we optimize what we optimize in multiple view geometry?_
 
 ### Computer Vision Intern, Wikitude
 ##### 2016 Feb - Jul
