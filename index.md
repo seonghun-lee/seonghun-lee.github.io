@@ -2,10 +2,16 @@
 
 
 # Experience
-### PhD, University of Zaragoza 
-##### 2017 Sep - Present
+### Postdoctoral researcher, University of Zaragoza
+##### 2023 Apr - Present
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    Topic: Real-time monocular visual(-inertial) odometry and SLAM
+*    Research Topic: Robust Estimation in Multiple View Geometry
+
+### PhD Student, University of Zaragoza 
+##### 2017 Sep - 2023 Feb
+*    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Research Topic: Visual SLAM and multiple view geometry
+*    Thesis: _Why do we optimize what we optimize in multiple view geometry?_
 
 ### Computer Vision Intern, Wikitude
 ##### 2016 Feb - Jul
@@ -27,7 +33,13 @@
 
 # Publications
 
-#### [HARA: A Hierarchical Approach for Robust Rotation Averaging](https://arxiv.org/abs/2111.08831)
+#### [RODIAN: Robustified Median](https://arxiv.org/abs/2206.02570)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Preprint, 2022
+*    [arXiv](https://arxiv.org/abs/2206.02570), [Matlab code](https://github.com/sunghoon031/RODIAN).
+
+
+#### [HARA: A Hierarchical Approach for Robust Rotation Averaging](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_HARA_A_Hierarchical_Approach_for_Robust_Rotation_Averaging_CVPR_2022_paper.html)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
 *    [arXiv](https://arxiv.org/abs/2111.08831), [Video](https://www.youtube.com/watch?v=oAR-LMStRS4), [Poster](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/cvpr22_poster_template.pdf), [Supplementary material](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/SupplementaryMaterial_HARA_A_Hierarchical_Approach_for_Robust_Rotation_Averaging.pdf), [Matlab code](https://github.com/sunghoon031/HARA).
