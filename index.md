@@ -11,7 +11,7 @@
 ##### 2017 Sep - 2023 Feb
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Research Topic: Visual SLAM and multiple view geometry
-*    Thesis: _Why do we optimize what we optimize in multiple view geometry?_
+*    Thesis: [_Why do we optimize what we optimize in multiple view geometry?_](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/_PhD_Thesis__Why_Do_We_Optimize_What_We_Optimize_in_Multiple_View_Geometry_.pdf)
 
 ### Computer Vision Intern, Wikitude
 ##### 2016 Feb - Jul
@@ -23,15 +23,20 @@
 ##### 2014-2017
 *    Program: Control and Simulation
 *    Thesis Advisor: [Prof. Guido de Croon](http://www.bene-guido.eu/wordpress/)
-*    Thesis: _Stability-based Scale Estimation of Monocular SLAM for Autonomous Quadrotor Navigation_
+*    Thesis: [_Stability-based Scale Estimation of Monocular SLAM for Autonomous Quadrotor Navigation_](https://repository.tudelft.nl/islandora/object/uuid%3A015f322f-9d86-4717-b2e2-74cf25bfa70c)
 
 ### BSc Aerospace Engineering, TU Delft
 ##### 2011-2014
 *    Cum Laude
-*    Graduation project: _BirdPlane – Designing a bio-inspired flapping-wing aircraft_ 
-*    This project won _UfD-Damen Bachelor Award 2015_ with €2,500 grant.
+*    Graduation project: [_BirdPlane – Designing a bio-inspired flapping-wing aircraft_](https://collegerama.tudelft.nl/Mediasite/Play/ebe05db7ddcc4f20a932f2fdbd1732f51d)
+*    This project won [_UfD-Damen Bachelor Award 2015_ with €2,500 grant](https://www.delta.tudelft.nl/article/bachelorawards-2015).
 
 # Publications
+
+#### [Why Do We Optimize What We Optimize in Multiple View Geometry?](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/_PhD_Thesis__Why_Do_We_Optimize_What_We_Optimize_in_Multiple_View_Geometry_.pdf)
+*    PhD Thesis, 2022
+*    [PDF](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/_PhD_Thesis__Why_Do_We_Optimize_What_We_Optimize_in_Multiple_View_Geometry_.pdf)
+
 
 #### [RODIAN: Robustified Median](https://arxiv.org/abs/2206.02570)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
