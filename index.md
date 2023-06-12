@@ -3,11 +3,11 @@
 
 # Experience
 ### Postdoctoral researcher, University of Zaragoza
-##### 2022 Feb - Present
+##### 2023 Apr - Present
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
 
 ### PhD Student, University of Zaragoza 
-##### 2017 Sep - 2022 Feb
+##### 2017 Sep - 2023 Feb
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Topic: Visual SLAM and multiple view geometry
 
