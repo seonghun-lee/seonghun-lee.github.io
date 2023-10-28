@@ -105,7 +105,7 @@
 *    [Poster](pdf/icra2018_poster.pdf), [Video demo](https://www.youtube.com/playlist?list=PL_KSX9GOn2P8WK44QH_pIZuRbLFrMFiAP), [Source code](https://github.com/sunghoon031/stability_scale)
 
 
-# Code
+# Miscellaneous Codes
 #####  [Pseudorandom Pair Sampling Without Replacement (MATLAB function)](https://nl.mathworks.com/matlabcentral/fileexchange/75407-pseudorandom-pair-sampling-without-replacement) 
 
 ##### [Random 3 x 3 rotation matrix generation](https://nl.mathworks.com/matlabcentral/fileexchange/132613-randomrotationmatrix)
