@@ -33,10 +33,19 @@
 
 # Publications
 
+#### [Robust Single Rotation Averaging Revisited](https://arxiv.org/abs/2004.00732)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Preprint, 2023
+*    [arXiv](https://arxiv.org/abs/2004.00732)
+
+#### [What's Wrong with the Absolute Trajectory Error?](https://arxiv.org/abs/2212.05376)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Preprint, 2023
+*    [arXiv](https://arxiv.org/abs/2212.05376), [Matlab code](https://github.com/sunghoon031/DTE_DRE).
+
 #### [Why Do We Optimize What We Optimize in Multiple View Geometry?](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/_PhD_Thesis__Why_Do_We_Optimize_What_We_Optimize_in_Multiple_View_Geometry_.pdf)
 *    PhD Thesis, 2022
 *    [PDF](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/_PhD_Thesis__Why_Do_We_Optimize_What_We_Optimize_in_Multiple_View_Geometry_.pdf)
-
 
 #### [RODIAN: Robustified Median](https://arxiv.org/abs/2206.02570)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
