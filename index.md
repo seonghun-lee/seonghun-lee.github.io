@@ -33,10 +33,10 @@
 
 # Publications
 
-#### [Robust Single Rotation Averaging Revisited](https://arxiv.org/abs/2004.00732)
+#### [Robust Single Rotation Averaging Revisited](https://arxiv.org/abs/2309.05388)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Preprint, 2023
-*    [arXiv](https://arxiv.org/abs/2004.00732)
+*    [arXiv](https://arxiv.org/abs/2309.05388)
 
 #### [What's Wrong with the Absolute Trajectory Error?](https://arxiv.org/abs/2212.05376)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
