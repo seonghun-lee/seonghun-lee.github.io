@@ -2,6 +2,11 @@
 
 
 # Experience
+### Visiting researcher, KU Leuven
+##### 2023 Sep - 2024 Feb
+*    Advisor: [Dr. Patrick Vandewalle](https://ai.kuleuven.be/members/00025616)
+* Research Topic: Robust Correspondence-Based Point Cloud Registration
+  
 ### Postdoctoral researcher, University of Zaragoza
 ##### 2023 Apr - Present
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
@@ -33,10 +38,15 @@
 
 # Publications
 
+#### [PCR-99: A Practical Method for Point Cloud Registration with 99% Outliers](https://arxiv.org/abs/2402.16598)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/), [Javier Civera](http://webdiis.unizar.es/~jcivera/), [Patrick Vandewalle](https://ai.kuleuven.be/members/00025616)
+*    Preprint, 2024
+*    [arXiv](https://arxiv.org/abs/2402.16598), [Matlab code](https://github.com/sunghoon031/PCR-99)
+  
 #### [Robust Single Rotation Averaging Revisited](https://arxiv.org/abs/2309.05388)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Preprint, 2023
-*    [arXiv](https://arxiv.org/abs/2309.05388)
+*    [arXiv](https://arxiv.org/abs/2309.05388), [Matlab code](https://github.com/sunghoon031/SingleRotationAveraging_TLUD)
 
 #### [What's Wrong with the Absolute Trajectory Error?](https://arxiv.org/abs/2212.05376)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
