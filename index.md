@@ -2,16 +2,16 @@
 
 
 # Experience
-### Visiting researcher, KU Leuven
-##### 2023 Sep - 2024 Feb
-*    Advisor: [Dr. Patrick Vandewalle](https://ai.kuleuven.be/members/00025616)
-* Research Topic: Robust Correspondence-Based Point Cloud Registration
-  
 ### Postdoctoral researcher, University of Zaragoza
 ##### 2023 Apr - Present
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Research Topic: Robust Estimation in Multiple View Geometry
-
+  
+### Visiting researcher, KU Leuven
+##### 2023 Sep - 2024 Feb
+*    Advisor: [Dr. Patrick Vandewalle](https://ai.kuleuven.be/members/00025616)
+*    Research Topic: Robust Correspondence-Based Point Cloud Registration
+  
 ### PhD Student, University of Zaragoza 
 ##### 2017 Sep - 2023 Feb
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
