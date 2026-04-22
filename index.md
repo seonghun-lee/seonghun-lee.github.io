@@ -3,14 +3,18 @@
 
 # Experience
 ### Postdoctoral researcher, University of Zaragoza
-##### 2023 Apr - Present
+##### 2023 Apr - 2024 Oct, 2025 Oct - Present
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    Research Topic: Robust Estimation in Multiple View Geometry
-  
+*    Research Topic: Robust and Scalable Algorithms in Multiple View Geometry
+
+### Postdoctoral researcher, KU Leuven
+##### 2024 Oct - 2025 Sep
+*    Advisor: [Dr. Patrick Vandewalle](https://ai.kuleuven.be/members/00025616)
+*    Research Topic: Robust Correspondence-Based Point Cloud Registration
+
 ### Visiting researcher, KU Leuven
 ##### 2023 Sep - 2024 Feb
 *    Advisor: [Dr. Patrick Vandewalle](https://ai.kuleuven.be/members/00025616)
-*    Research Topic: Robust Correspondence-Based Point Cloud Registration
   
 ### PhD Student, University of Zaragoza 
 ##### 2017 Sep - 2023 Feb
@@ -38,19 +42,34 @@
 
 # Publications
 
-#### [PCR-99: A Practical Method for Point Cloud Registration with 99% Outliers](https://arxiv.org/abs/2402.16598)
+#### [An Efficient Closed-Form Solution to Full Visual-Inertial State Initialization](https://arxiv.org/abs/2511.18910)
+*   [Samuel Cerezo](https://i3a.unizar.es/es/investigadores/samuel-adrian-cerezo), [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*   IEEE Robotics and Automation Letters (RA-L), 2026
+*   [arXiv](https://arxiv.org/abs/2511.18910)
+
+#### [P3P Made Easy](https://arxiv.org/abs/2508.01312)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/), [Patrick Vandewalle](https://ai.kuleuven.be/members/00025616), [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    Preprint, 2025
+*    [arXiv](https://arxiv.org/abs/2508.01312), [C++ code](https://github.com/sunghoon031/P3P).
+
+#### [Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation](https://ieeexplore.ieee.org/document/11374289)
+*    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
+*    ICCV Workshop, 2024
+*    [arXiv](https://arxiv.org/abs/2407.20391), [Matlab code](https://github.com/sunghoon031/AlignmentScores)
+
+#### [PCR-99: A Practical Method for Point Cloud Registration with 99 percent Outliers](https://link.springer.com/chapter/10.1007/978-3-031-91569-7_2)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/), [Javier Civera](http://webdiis.unizar.es/~jcivera/), [Patrick Vandewalle](https://ai.kuleuven.be/members/00025616)
-*    Preprint, 2024
+*    ECCV Workshop, 2024
 *    [arXiv](https://arxiv.org/abs/2402.16598), [Matlab code](https://github.com/sunghoon031/PCR-99)
   
-#### [Robust Single Rotation Averaging Revisited](https://arxiv.org/abs/2309.05388)
+#### [Robust Single Rotation Averaging Revisited](https://link.springer.com/chapter/10.1007/978-3-031-91569-7_3)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    Preprint, 2023
+*    ECCV Workshop, 2024
 *    [arXiv](https://arxiv.org/abs/2309.05388), [Matlab code](https://github.com/sunghoon031/SingleRotationAveraging_TLUD)
 
-#### [What's Wrong with the Absolute Trajectory Error?](https://arxiv.org/abs/2212.05376)
+#### [What's Wrong with the Absolute Trajectory Error?](https://link.springer.com/chapter/10.1007/978-3-031-91569-7_8)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    Preprint, 2023
+*    ECCV Workshop, 2024
 *    [arXiv](https://arxiv.org/abs/2212.05376), [Matlab code](https://github.com/sunghoon031/DTE_DRE).
 
 #### [Why Do We Optimize What We Optimize in Multiple View Geometry?](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/_PhD_Thesis__Why_Do_We_Optimize_What_We_Optimize_in_Multiple_View_Geometry_.pdf)
