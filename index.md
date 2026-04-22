@@ -6,7 +6,7 @@
 ##### 2023 Apr - 2024 Oct, 2025 Oct - Present
 *    Advisor: [Dr. Javier Civera](http://webdiis.unizar.es/~jcivera/)
 *    Research Topic: Robust and Scalable Algorithms in 3D Vision
-*    
+  
 ### Postdoctoral researcher, KU Leuven
 ##### 2024 Oct - 2025 Sep
 *    Advisor: [Dr. Patrick Vandewalle](https://ai.kuleuven.be/members/00025616)
