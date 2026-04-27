@@ -54,7 +54,7 @@
 
 #### [Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation](https://ieeexplore.ieee.org/document/11374289)
 *    [Seong Hun Lee](https://seonghun-lee.github.io/) and [Javier Civera](http://webdiis.unizar.es/~jcivera/)
-*    ICCV Workshop, 2024
+*    ICCV Workshop, 2025
 *    [arXiv](https://arxiv.org/abs/2407.20391), [Matlab code](https://github.com/sunghoon031/AlignmentScores)
 
 #### [PCR-99: A Practical Method for Point Cloud Registration with 99 percent Outliers](https://link.springer.com/chapter/10.1007/978-3-031-91569-7_2)
